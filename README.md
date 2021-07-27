@@ -19,7 +19,7 @@ and can be used as a template for further explorations.
 License
 -------
 
-Copyright 2019 Google, Inc.
+Copyright 2021 Google, Inc.
 
 All image and audio files (including *.png, *.jpg, *.svg, *.mp3, *.wav
 and *.ogg) are licensed under the CC BY 4.0 license. All other files are
